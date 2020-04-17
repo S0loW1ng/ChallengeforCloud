@@ -6,9 +6,10 @@ IPv6 Is almost working I just need some guidance
 Due to exams I was not able to add more functions.
 ## How to use it 
 Usage of Ping (bold means mandatory):
-  -**IP** string: Ip address (default "nil")
-  -IPV6: True if its a IPV6 protocol
-  -**TTL** int: Sets time to live. (default 1)
+
+  - **IP** string: Ip address (default "nil")
+  - IPV6: True if its a IPV6 protocol
+  - **TTL** int: Sets time to live. (default 1)
 
 ## Awknowledgemets
 I would like to thank :

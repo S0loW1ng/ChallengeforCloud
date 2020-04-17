@@ -11,6 +11,10 @@ Usage of Ping (bold means mandatory):
   - IPV6: True if its a IPV6 protocol
   - **TTL** int: Sets time to live. (default 1)
 
+## External Libs 
+- golang.org/x/net/icmp
+- golang.org/x/net/ipv4
+- golang.org/x/net/ipv6
 ## Awknowledgemets
 I would like to thank :
 - lmas for giving me some help on creating the ping application
